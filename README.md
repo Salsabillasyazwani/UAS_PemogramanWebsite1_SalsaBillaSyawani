@@ -13,7 +13,7 @@ Aplikasi **U-Manage** adalah sistem manajemen UMKM berbasis web yang dibuat untu
 
 ## 🔗 Demo & Dokumentasi
 - 🌐 **Website** : https://aspel.cyou/salsauas  
-- 🎥 **Video Demo** : *(isi link video di sini)*
+- 🎥 **Video Demo** : https://drive.google.com/drive/folders/1kdu7ovYMRegUzpgGCwHyLVqKhTl-jaTO?usp=drive_link
 
 ---
 
@@ -100,4 +100,5 @@ Aplikasi **U-Manage** adalah sistem manajemen UMKM berbasis web yang dibuat untu
 <img src="https://github.com/user-attachments/assets/74f15a9e-a406-4737-b28e-1964cf29ff9b" width="100%"/>
 
 ---
+
 
