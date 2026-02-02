@@ -77,7 +77,7 @@ Aplikasi **U-Manage** adalah sistem manajemen UMKM berbasis web yang dibuat untu
 <img src="https://github.com/user-attachments/assets/e5499853-0a7b-487b-ae22-7a9cfc10bf9a" width="100%"/>
 
 ### 📑 Detail Transaksi
-<img src="https://github.com/user-attachments/assets/dc32a45a-aab8-443f-b05b-6f5f819d64d9" width="100%"/>
+<img width="1344" height="633" alt="image" src="https://github.com/user-attachments/assets/ee0935d2-4705-43a1-aaf1-a85901fe5e57" />
 
 ---
 
@@ -100,5 +100,6 @@ Aplikasi **U-Manage** adalah sistem manajemen UMKM berbasis web yang dibuat untu
 <img src="https://github.com/user-attachments/assets/74f15a9e-a406-4737-b28e-1964cf29ff9b" width="100%"/>
 
 ---
+
 
 
